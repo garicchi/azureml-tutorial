@@ -1,3 +1,3 @@
 # azureml-tutorial
 
-see [./weather/weather.md](./tutorial.md)
+see [weather.md](./weather/weather.md)

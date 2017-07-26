@@ -5,4 +5,10 @@ Azure Machine Learningのチュートリアルをおいています。今後増�
 |:--:|:--:|:--:|:--:|
 |[気温予測](./weather/README.md)|気象庁の過去データから回帰分析を用いて気温予測をします|回帰分析|NeuralNetwork|
 
-<script async class="speakerdeck-embed" data-id="f2099f653fa54524986e9c7c7390dba0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+# 補足スライド
+過去登壇したAzure Machine Learningの資料です。合わせてご参照ください
+
+|タイトル|内容|
+|:--:|:--:|
+|[Azure Machine Learning実践入門](https://speakerdeck.com/garicchi/azure-machine-learningshi-jian-ru-men)|Azure Machine Learningを実際に動かしながら解説|
+|[CortanaIntelligenceが描くAIシステムの作り方](https://speakerdeck.com/garicchi/cortana-intelligencegamiao-kuaisisutemufalsetukurifang)|Cortana Intelligenceを通してAzure Machine LearningをどのようにAzureサービスに組み込むかを解説|

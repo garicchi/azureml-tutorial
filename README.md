@@ -3,5 +3,5 @@ Azure Machine Learningのチュートリアルをおいています。今後増�
 
 |タイトル|内容|分析問題|アルゴリズム|
 |:--:|:--:|:--:|:--:|
-|[気温予測](./weather/README.md)|気象庁の過去データから回帰分析を用いて希少予測をします|回帰分析|NeuralNetwork|
+|[気温予測](./weather/README.md)|気象庁の過去データから回帰分析を用いて気温予測をします|回帰分析|NeuralNetwork|
 

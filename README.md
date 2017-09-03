@@ -3,7 +3,8 @@ Azure Machine Learningのチュートリアルをおいています。今後増�
 
 |タイトル|内容|分析問題|アルゴリズム|
 |:--:|:--:|:--:|:--:|
-|[気温予測](./weather/README.md)|気象庁の過去データから回帰分析を用いて気温予測をします|回帰分析|NeuralNetwork|
+|[気温予測](./temp-regression/README.md)|気象庁の過去データから回帰分析を用いて気温予測をします|回帰分析|NeuralNetwork|
+|[献血識別](./blood-classify/README.md)|献血のサンプルデータから献血に行った人とそうでない人を識別します|識別|NeuralNetwork|
 
 # 補足スライド
 過去登壇したAzure Machine Learningの資料です。合わせてご参照ください

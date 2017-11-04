@@ -106,3 +106,8 @@ Evaluateモジュールの下についている○を右クリックして「Vis
 ![8](./img/8.png)
 
 今回は3割り程度のチートユーザーしか検出できませんでしたが、パラメータを調整したりアルゴリズムを変えることでより異常値検出の精度が上がるかもしれません。
+
+## Cortana Intelligence Gallery
+今回のチュートリアルはCortana Intelligence Galleryで公開しているのでワンボタンでご自身のAzure Machine Learning Studioへと取り込むことができます。
+
+[https://gallery.cortanaintelligence.com/Experiment/online-game-cheat-user-detection-tutorial](https://gallery.cortanaintelligence.com/Experiment/online-game-cheat-user-detection-tutorial)
